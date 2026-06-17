@@ -77,8 +77,10 @@ Three-page Power BI dashboard with interactive slicers (facility, month, shippin
 
 - **Executive Summary** — KPI cards, monthly order volume trend, order status breakdown, top product categories
 <img width="956" height="533" alt="image" src="https://github.com/user-attachments/assets/e002513d-a231-4c26-9f61-4814a5ffd70a" />
+
 - **Facility Comparison** — side-by-side JAX vs. BTH on late rate, volume, fulfillment gap, and shipping mode performance
 <img width="1007" height="562" alt="image" src="https://github.com/user-attachments/assets/19721148-178c-45da-8da2-9cfc32ee1db9" />
+
 - **Operational Insights** — late rate by shipping mode, fulfillment gap distribution, category × shipping mode heatmap
 <img width="956" height="536" alt="image" src="https://github.com/user-attachments/assets/5ae43334-96bc-4565-8062-d0e3f93390e9" />
 
